@@ -1,0 +1,2 @@
+# redis-note
+redis references
